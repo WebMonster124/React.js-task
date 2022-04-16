@@ -21,6 +21,7 @@
         "no-console": [
          "warn",
          { "allow": ["clear", "info", "error", "dir", "trace", "log"] }
-        ]
+        ],
+        "react/prop-types": "off"
     }
 }
